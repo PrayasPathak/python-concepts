@@ -1,0 +1,8 @@
+File Modes:
+'r' -> open for reading (default)
+'w  -> open for writing. truncating the file first
+'x' -> create a new file and open it for writing
+'a' -> open for writing, appends the content to the end of the file
+'b' -> binary mode
+'t' -> text mode(implicit)
+'+' -> open a disk file for updating (reading and writing)
